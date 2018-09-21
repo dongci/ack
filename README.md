@@ -1,6 +1,6 @@
 ack-tools
 
-ack其实就是ubuntu中的egrep工具，但centos在没有这个安装包。
+ack其实就是快速查找工具，但centos在没有这个安装包。
 
 # 下载安装
 cd /tmp
